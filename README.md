@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**RudraShrivastava14/RudraShrivastava14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Rudra Shrivastava 👋
 
-Here are some ideas to get you started:
+### Software Engineer | Distributed Systems | Cloud & AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building scalable systems and exploring the intersection of backend engineering, cloud computing, and applied machine learning.
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 💻 Interested in **Backend Engineering, Distributed Systems & Cloud Computing**
+- ☁️ Experience building with **AWS, Apache Spark, Cassandra and modern backend technologies**
+- 🤖 Exploring **Applied Machine Learning and AI Systems**
+- 🧠 Strong foundation in **Data Structures & Algorithms**
+- 🔭 Currently building systems that combine **Cloud, Edge Computing and ML**
