@@ -1,4 +1,9 @@
 <div align="center">
+  <img src="./git_profile.png" alt="Rudra Shrivastava GitHub Profile" width="100%" />
+</div>
+
+<br/>
+<div align="center">
 
 # Hi, I'm Rudra Shrivastava 👋
 
